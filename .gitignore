@@ -1,0 +1,15 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local submission drafts - never committed
+submission_draft/
+
+# Office lock files and OS clutter
+~$*
+.~lock.*#
+.DS_Store
+Thumbs.db
+desktop.ini
